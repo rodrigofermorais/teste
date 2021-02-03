@@ -1,8 +1,8 @@
-#MASSA DE COXINHA FÁCIL DA ANDRIELE
+MASSA DE COXINHA FÁCIL DA ANDRIELE
 
-##INGREDIENTES    
-     - 2 copos de água
-          -
+INGREDIENTES    
+   - 2 copos de água
+
    -  1 copo de leite
 
    - 1 colher de margarina
@@ -15,7 +15,7 @@
 
         
 
-###MODO DE PREPARO
+MODO DE PREPARO
 
      - Coloque a água, o leite, a margarina, o caldo e o sal em uma panela e misture até ferver.
     
