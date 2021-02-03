@@ -1,15 +1,21 @@
-*MASSA DE COXINHA FÁCIL DA ANDRIELE
+#MASSA DE COXINHA FÁCIL DA ANDRIELE
 
-**INGREDIENTES    
+##INGREDIENTES    
      - 2 copos de água
-     - 1 copo de leite
-     - 1 colher de margarina
-     - 1 cubo de caldo de galinha
-     - sal a gosto
-     - 3 xícaras de trigo
+          -
+   -  1 copo de leite
 
+   - 1 colher de margarina
 
-***MODO DE PREPARO
+   -  1 cubo de caldo de galinha
+
+   - sal a gosto
+
+   -  3 xícaras de trigo
+
+        
+
+###MODO DE PREPARO
 
      - Coloque a água, o leite, a margarina, o caldo e o sal em uma panela e misture até ferver.
     
